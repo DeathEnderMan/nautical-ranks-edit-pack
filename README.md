@@ -43,9 +43,11 @@ In the Nautical-Ranks-V2-JAVA Folder go to assets -> minecraft --> textures --> 
 
 ## Credit
 
-Realgamerz
-## Support
+RealGamerzYT
+Subscribe To His Channel
 https://youtube.com/@RealGamerzYT
+## Support
+
 For support, email support@nauticalmc.info or join https://discord.gg/MTgdUMrpK8
 
 
