@@ -25,8 +25,8 @@ Rename Nautical-Ranks-V2-BEDROCK.mcpack to Nautical-Ranks-V2-BEDROCK.zip and unz
 
 #### Editing Bedrock
 
-First go into the new folder you just unziped then go to font folder and edit the glyph_E8.png using photoshop or anyother photo editor than find the next place it should be if you are only doing 1 in should be 3rd row 1 then save it now go to https://wiki.bedrock.dev/concepts/emojis.html 
-and scroll all the way down and find the convertor use the grid to find where your rank is if it was in the place I said earlier it would be 0xE820 copy that small box thing then zip the file and put the mcpack extention back on it and it will work then go in game and paste that box you copied then it will show that rank texture.
+First go into the new folder you just unziped then go to font folder and edit the glyph_E8.png using photoshop or anyother photo editor than find the next place it should be if you are only doing 1 it should be 3rd row 1 then save it now go to https://wiki.bedrock.dev/concepts/emojis.html 
+and scroll all the way down and find the convertor use the grid or https://inkiralet.github.io/libglyph-mcbe/ to find where your rank is if it was in the place I said earlier it would be 0xE820 copy that small box thing then zip the file and put the mcpack extention back on it and it will work then go in game and paste that box you copied then it will show that rank texture.
 
 
 ![Unzip](https://i.postimg.cc/Nfs9sdkS/glyph-E1.png)
