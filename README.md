@@ -46,6 +46,8 @@ In the Nautical-Ranks-V2-JAVA Folder go to assets -> minecraft --> textures --> 
 RealGamerzYT
 Subscribe To His Channel
 https://youtube.com/@RealGamerzYT
+RealGamerzYT Discord:
+https://discord.com/invite/k4uwYKNk3h
 ## Support
 
 For support, email support@nauticalmc.info or join https://discord.gg/MTgdUMrpK8
