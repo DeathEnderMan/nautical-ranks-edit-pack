@@ -47,7 +47,7 @@ RealGamerzYT
 Subscribe To His Channel
 https://youtube.com/@RealGamerzYT
 RealGamerzYT Discord:
-https://discord.com/invite/k4uwYKNk3h
+(https://discord.com/invite/9q8DNeTbJd)
 ## Support
 
 For support, email support@nauticalmc.info or join https://discord.gg/MTgdUMrpK8
